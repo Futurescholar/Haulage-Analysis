@@ -48,22 +48,27 @@ The report consists of 13 pages:
 
 ## Analysis:
 1.	**Truck:**
+
 The company currently has a total of 593 trucks with different classifications. 591 are actually running while 2 are under repair
 ![.](Truck.png)
 -----
 2.	**Trip:**
+
 A total of 15,019 trips were made by the company within the first 3 years of operation. 
 ![.](Trip.png)
 -----
 3.	**Route Map:**
+
 It can be seen that the Warri depot has more trips carried out from it than any other depot
 ![.](Depot_Route_Map.png)
 ----
 4.	**Destination:**
+
 Abuja-Suleja is the most visited place with a total of 1435 trips in the last three years
 ![.](Destination.png)
 ----
 5.	**Driver:**
+
 It can be seen that though Bala Ishaka bring in more revenue Muntari Adamu has the highest trip allowance over the years
 ![.](Driver.png)
 ----
@@ -74,22 +79,27 @@ It can be seen that though Bala Ishaka bring in more revenue Muntari Adamu has t
 ![.](Driver_trend.png)
 ----
 8.	**Decomposition:**
+
 It can be seen that though we have 15019 trips only 6836 trips are associated with drivers 
 ![.](Decomposition_Tree.png)
 -----
 9.	**Revenue:**
+
 It can be seen that Warri depot brought in the highest revenue
 ![.](Revenue.png)
 -----
 10.	**Expenses:**
+
 It can be seen that Warri depot also had the highest expenses
 ![.](Expenses.png)
 -----
 11.	**Gross Profit:**
+
 It can be seen that Warri depot, White Product and Bala Ishaka a driver all generated the highest profit in their unit respectively
 ![.](Profit.png)
 -----
 12.	**Regression:** 
+
 A correlation can be seen between Revenue and Profit based on Classification
 ![.](Regression.png)
 
