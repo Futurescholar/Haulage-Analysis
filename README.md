@@ -65,7 +65,7 @@ Abuja-Suleja is the most visited place with a total of 1435 trips in the last th
 ----
 5.	**Driver:**
 It can be seen that though Bala Ishaka bring in more revenue Muntari Adamu has the highest trip allowance over the years
-![.]()
+![.](Driver.png)
 ----
 6.	**Driver Analysis:**
 ![.](Driver_Analysis.png)
@@ -102,5 +102,5 @@ Due to the analysis
 
 
 
-##**Thank You for going through my documentation process.**
+## **Thank You for going through my documentation process.** 
 
